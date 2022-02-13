@@ -10,3 +10,11 @@ license = "MIT"
 
 [dependencies]
 notion = "0.3.4"
+lambda = { package = "netlify_lambda", version = "0.2.0" }
+tokio = "1.5.0"
+serde = "1.0.125"
+serde_derive = "1.0.125"
+serde_json = "1.0.64"
+
+[dev-dependencies]
+pretty_assertions = "0.7.2"

@@ -8,3 +8,4 @@
 * [softprops/lambda-rust](https://github.com/softprops/lambda-rust)
 * [serverless-rustプラグインでRustアプリをデプロイするためのworkaround](https://zenn.dev/ryosukeeeee/articles/rust-serverless-framework)
 * [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
+* [AWS Lambda へのデプロイ - Bolt](https://slack.dev/bolt-js/ja-jp/deployments/aws-lambda)
